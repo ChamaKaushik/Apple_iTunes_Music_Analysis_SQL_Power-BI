@@ -2,7 +2,7 @@
 
 ### 1. Project Overview
 The Apple iTunes Music Analysis project aims to analyze sales and customer behavior data from the Apple iTunes Store to derive insights that can help the marketing, product, and operations teams make informed decisions.
-Objectives: 
+#### Objectives: 
 1.Identify the most popular music genres and tracks. 
 2.Analyze sales performance by country and city. 
 3.Determine peak sales periods for promotional campaigns.
