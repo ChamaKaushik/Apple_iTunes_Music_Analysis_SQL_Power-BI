@@ -35,17 +35,17 @@ Tools Used:
 Performed joins to combine customer, invoice, track, and genre data for analysis.
 
 ### 4. Key Analysis and Insights
-4.1 Sales by Country
+#### 4.1 Sales by Country
 Observation: The United States had the highest revenue, followed by Canada and the UK.
 Insight: Focus marketing campaigns in countries with high revenue potential.
-4.2 Top-Selling Tracks and Genres
+#### 4.2 Top-Selling Tracks and Genres
 Top Genre: Rock and Pop dominated sales.
 Top Artist: Queen, Jimi Hendrix .
 Insight: Promoting popular genres and tracks can increase user engagement and revenue.
-4.3 Sales Over Time
+#### 4.3 Sales Over Time
 Observation: Peak sales occur during weekends and major holidays.
 Insight: Schedule promotions and advertising campaigns during peak sales periods.
-4.4 Customer Behavior
+#### 4.4 Customer Behavior
 Observation: Customers often buy multiple tracks together, with patterns in genre combinations.
 Insight: Implement recommendation systems to encourage bundle purchases.
 
