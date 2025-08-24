@@ -1,7 +1,4 @@
-Apple iTunes Music Analysis Project Report
-Prepared By: Chama Kaushik
-Role: Data Analyst Intern
-Date: August 2025
+## Project  - Apple iTunes Music Analysis 
 
 1. Project Overview
 The Apple iTunes Music Analysis project aims to analyze sales and customer behavior data from the Apple iTunes Store to derive insights that can help the marketing, product, and operations teams make informed decisions.
