@@ -1,6 +1,6 @@
 ## Project  - Apple iTunes Music Analysis 
 
-1. Project Overview
+### 1. Project Overview
 The Apple iTunes Music Analysis project aims to analyze sales and customer behavior data from the Apple iTunes Store to derive insights that can help the marketing, product, and operations teams make informed decisions.
 Objectives: 
 1.Identify the most popular music genres and tracks. 
@@ -9,7 +9,7 @@ Objectives:
 4.Understand customer behavior and preferences.
 5.Recommend actionable strategies to improve sales and user engagement.
 
-2. Data Source
+### 2. Data Source
 The data used in this project comes from Apple iTunes and includes the following datasets:
 Table Name	Description
 Customer	Contains customer information such as name, email, and country.
@@ -28,13 +28,13 @@ Tools Used:
 - Python (Pandas, Matplotlib, NumPy) for data cleaning and visualization
 - Power BI for dashboard creation and reporting
 
-3. Data Cleaning and Preprocessing
+### 3. Data Cleaning and Preprocessing
 Checked for missing values and inconsistencies.
 Standardized data formats for dates and currency.
 Removed duplicates in customer and invoice tables.
 Performed joins to combine customer, invoice, track, and genre data for analysis.
 
-4. Key Analysis and Insights
+### 4. Key Analysis and Insights
 4.1 Sales by Country
 Observation: The United States had the highest revenue, followed by Canada and the UK.
 Insight: Focus marketing campaigns in countries with high revenue potential.
@@ -49,7 +49,7 @@ Tools Used:
 Observation: Customers often buy multiple tracks together, with patterns in genre combinations.
 Insight: Implement recommendation systems to encourage bundle purchases.
 
-5. Power BI Dashboard Design
+### 5. Power BI Dashboard Design
 The Power BI dashboard includes:
 1.Revenue by Country (Map Visual)
 oShows total sales per country.
@@ -66,7 +66,7 @@ oTotal Number of Customers
 oHighest-Selling Genre
 oMost Popular Track
 
-6. Recommendations
+### 6. Recommendations
 1.Marketing:
 oTarget countries with high revenue potential.
 oSchedule promotions during peak periods identified in the sales analysis.
@@ -77,5 +77,5 @@ oConsider bundle offers based on commonly purchased tracks.
 oMonitor stock and licensing for high-demand tracks.
 oOptimize digital infrastructure to handle peak sales times.
 
-7. Conclusion
+### 7. Conclusion
 The analysis provides actionable insights into customer behavior, track popularity, and sales trends in the Apple iTunes Store. By implementing the recommendations, the marketing, product, and operations teams can improve revenue, customer engagement, and overall business performance.
