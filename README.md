@@ -10,19 +10,20 @@ The Apple iTunes Music Analysis project aims to analyze sales and customer behav
 - Recommend actionable strategies to improve sales and user engagement.
 
 ### 2. Data Source
-The data used in this project comes from Apple iTunes and includes the following datasets:
-Table Name	Description
-Customer	Contains customer information such as name, email, and country.
-Invoice	Records of purchases made by customers, including invoice date and total.
-Invoice_Line	Detailed items purchased in each invoice.
-Track	Information about music tracks such as name, genre, and composer.
-Genre	List of music genres.
-Artist	Information about music artists.
-Album	Details about albums including album name and artist.
-Playlist	Contains playlists created in the iTunes store.
-Playlist_track	Maps tracks to playlists.
-Media_type	Information about media types (e.g., audio, video) of tracks.
-Employee	Contains information about employees handling sales and support.
+The dataset is based on Apple iTunes sample database containing multiple relational tables:
+
+- Customer – customer details (name, email, country)
+- Invoice – purchase transactions
+- Invoice_Line – detailed items in each invoice
+- Track – track details (name, genre, composer)
+- Genre – list of genres
+- Artist – music artists
+- Album – album details
+- Playlist – playlists
+- Playlist_Track – mapping between tracks and playlists
+- Media_Type – types of media (audio, video)
+- Employee – sales/support employees
+
 Tools Used:
 - SQL (MySQL) for data extraction and preprocessing
 - Python (Pandas, Matplotlib, NumPy) for data cleaning and visualization
