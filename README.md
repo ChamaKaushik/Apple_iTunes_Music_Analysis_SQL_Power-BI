@@ -12,7 +12,7 @@ The Apple iTunes Music Analysis project aims to analyze sales and customer behav
 ### 2. Data Source
 The dataset is based on Apple iTunes sample database containing multiple relational tables:
 
-- Customer – customer details (name, email, country)
+- ** Customer ** – customer details (name, email, country)
 - Invoice – purchase transactions
 - Invoice_Line – detailed items in each invoice
 - Track – track details (name, genre, composer)
