@@ -34,18 +34,13 @@ The dataset is based on Apple iTunes sample database containing multiple relatio
 - Standardized data formats(dates, currency).
 - Created joins between tables for analysis.
 
-### 📊Key Insights
+## 🗄️ SQL Analysis
+- Performed joins across multiple tables
+- Created revenue and customer metrics
+- Identified top genres and artists
+- Wrote optimized queries using GROUP BY and JOIN
 
-- **Sales by Country**: USA generated the highest revenue, followed by Canada and the UK.
-
-- **Top-Selling Genres**: Rock and Pop dominated sales.
-
-- **Top Artists**: Queen, Jimi Hendrix were among the most popular.
-
-- **Sales Trends**: Peak sales occurred during weekends and holidays.
-
-- **Customer Behavior**: Many customers bought multiple tracks together → recommendation system can improve bundles.
-
+# 📄SQL File: [View Queries](LINK)
 
 ### 📈Power BI Dashboard
 
@@ -61,11 +56,19 @@ The interactive dashboard includes:
 - KPIs (Cards: Total Revenue, Customers, Top Genre, Top Track)
 - Slicers (Interactive filters for Country, City, Date, Genre)
 
+# 📄Dashboard Preview: [View Dashboard PDF](https://github.com/ChamaKaushik/Apple_iTunes_Music_Analysis_SQL_Power-BI/blob/main/Dashboard_pdf.pdf)
 
-### 📷Dashboard Preview:
+### 📊Key Insights
 
-📄 [View Dashboard PDF]()
+- **Sales by Country**: USA generated the highest revenue, followed by Canada and the UK.
 
+- **Top-Selling Genres**: Rock and Pop dominated sales.
+
+- **Top Artists**: Queen, Jimi Hendrix were among the most popular.
+
+- **Sales Trends**: Peak sales occurred during weekends and holidays.
+
+- **Customer Behavior**: Many customers bought multiple tracks together → recommendation system can improve bundles.
 
 
 ### 6.Recommendations
