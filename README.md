@@ -3,7 +3,7 @@
 ### 📌Project Overview
 The Apple iTunes Music Analysis project aims to analyze sales and customer behavior data from the Apple iTunes Store to derive insights that can help the marketing, product, and operations teams make informed decisions.
 
-#### 🎯Objectives: 
+### 🎯Objectives: 
 - Identify the most popular music genres and tracks
 - Analyze sales performance by country and city
 - Determine peak sales periods for promotional campaigns
@@ -34,7 +34,7 @@ The dataset is based on Apple iTunes sample database containing multiple relatio
 - Standardized data formats(dates, currency)
 - Created joins between tables for analysis
 
-## 🗄️ SQL Analysis
+### 🗄️ SQL Analysis
 - Wrote complex SQL queries using `JOIN`, `GROUP BY`, `ORDER BY`, and subqueries
 - Analyzed customer purchases, revenue trends, and genre-wise performance
 - Identified top-selling tracks, artists, and countries using aggregation functions
@@ -73,8 +73,13 @@ The interactive dashboard includes:
 - **Customer Behavior**: Many customers bought multiple tracks together → recommendation system can improve bundles
 
 
-### 6.Recommendations
+### 💡Recommendations
 
 - **Marketing**: Focus campaigns in high-revenue countries, align promotions with peak sales periods
 - **Product**: Promote top genres (Rock, Pop), introduce track bundles
 - **Operations**: Ensure availability/licensing for high-demand tracks, optimize infrastructure during peak load
+
+### 👨‍💻 Author
+**Chama Kaushik**  
+B.Tech CSE | Data Analyst  
+Skills: SQL | Power BI | Python | Excel
