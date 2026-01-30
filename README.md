@@ -62,7 +62,9 @@ The interactive dashboard includes:
 - Slicers (Interactive filters for Country, City, Date, Genre)
 
 
-📷 **Dashboard Preview:**
+### 📷Dashboard Preview:
+
+
 
 ### 6.Recommendations
 
