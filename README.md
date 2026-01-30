@@ -40,7 +40,7 @@ The dataset is based on Apple iTunes sample database containing multiple relatio
 - Identified top genres and artists
 - Wrote optimized queries using GROUP BY and JOIN
 
-#### 📄SQL File: [View Queries](LINK)
+  #### 📄SQL File: [View Queries](https://github.com/ChamaKaushik/Apple_iTunes_Music_Analysis_SQL_Power-BI/blob/main/15%20SQL%20Queries%20Solutions.sql)
 
 ### 📈Power BI Dashboard
 
@@ -56,7 +56,7 @@ The interactive dashboard includes:
 - KPIs (Cards: Total Revenue, Customers, Top Genre, Top Track)
 - Slicers (Interactive filters for Country, City, Date, Genre)
 
-#### 📄Dashboard Preview: [View Dashboard PDF](https://github.com/ChamaKaushik/Apple_iTunes_Music_Analysis_SQL_Power-BI/blob/main/Dashboard_pdf.pdf)
+  #### 📄Dashboard Preview: [View Dashboard PDF](https://github.com/ChamaKaushik/Apple_iTunes_Music_Analysis_SQL_Power-BI/blob/main/Dashboard_pdf.pdf)
 
 ### 📊Key Insights
 
