@@ -64,6 +64,8 @@ The interactive dashboard includes:
 
 ### 📷Dashboard Preview:
 
+📄 [View Dashboard PDF]()
+
 
 
 ### 6.Recommendations
