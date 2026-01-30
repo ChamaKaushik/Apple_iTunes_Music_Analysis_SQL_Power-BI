@@ -1,16 +1,16 @@
-## Project  - Apple iTunes Music Analysis 
+## 🎵Apple iTunes Music Analysis 
 
-### 1.Project Overview
+### 📌Project Overview
 The Apple iTunes Music Analysis project aims to analyze sales and customer behavior data from the Apple iTunes Store to derive insights that can help the marketing, product, and operations teams make informed decisions.
 
-#### Objectives: 
+#### 🎯Objectives: 
 - Identify the most popular music genres and tracks. 
 - Analyze sales performance by country and city. 
 - Determine peak sales periods for promotional campaigns.
 - Understand customer behavior and preferences.
 - Recommend actionable strategies to improve sales and user engagement.
 
-### 2.Data Source
+### 📂Data Source
 The dataset is based on Apple iTunes sample database containing multiple relational tables:
 
 - **Customer** – customer details (name, email, country)
@@ -25,16 +25,16 @@ The dataset is based on Apple iTunes sample database containing multiple relatio
 - **Media_Type** – types of media (audio, video)
 - **Employee** – sales/support employees
 
-### 3.Tools Used:
+### 🛠️Tools Used:
 - **SQL (MySQL)** - data extraction and preprocessing
 - **Power BI** - dashboard creation and visualisation
 
-### 4.Data Cleaning and Preprocessing
+### 🧹Data Cleaning and Preprocessing
 - Checked for missing values and inconsistencies.
 - Standardized data formats(dates, currency).
 - Created joins between tables for analysis.
 
-### 5.Key Insights
+### 📊Key Insights
 
 - **Sales by Country**: USA generated the highest revenue, followed by Canada and the UK.
 
@@ -47,7 +47,7 @@ The dataset is based on Apple iTunes sample database containing multiple relatio
 - **Customer Behavior**: Many customers bought multiple tracks together → recommendation system can improve bundles.
 
 
-### 6.Power BI Dashboard
+### 📈Power BI Dashboard
 
 The interactive dashboard includes:
 
@@ -60,6 +60,9 @@ The interactive dashboard includes:
 - Most Popular Songs (Column Chart)
 - KPIs (Cards: Total Revenue, Customers, Top Genre, Top Track)
 - Slicers (Interactive filters for Country, City, Date, Genre)
+
+
+📷 **Dashboard Preview:**
 
 ### 6.Recommendations
 
